@@ -7,7 +7,7 @@ public class Main
   {
     Scanner sc = new Scanner(System.in);
     String input = "";
-
+    ArrayList <String>;
     while (!input.equals("STOP"))
     {
       System.out.println("infinite loop! replace with your code");
